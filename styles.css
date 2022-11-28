@@ -1,3 +1,60 @@
 body{
-    color: white ;
+    margin: 0%;
 }
+.landing-page{
+    background-color: rgba(33,33,33,255);
+}
+#home{
+    display: flex;
+    padding: 40px 10%;   
+}
+#text-home{
+    width: 60vw;
+}
+#img-home{
+    width: 40vw;
+    height: 60vh;
+}
+
+#img-home > img{
+    width: 40vw;
+    padding-top: 2%;
+}
+#text-name{
+        color: rgba(0,163,172,255);
+}
+.btn-order{
+    border-radius: 40px;
+    padding: 25px 60px;
+    background-color: #ef6e44;
+    color: rgb(253, 252, 252);
+    border: none;
+    text-decoration: none;
+    margin-top: 10%;
+    font-size: large;
+}
+.btn-book{
+    border-radius: 40px;
+    padding: 25px 60px;
+    background-color: rgba(33,33,33,255);
+    color: #cdc465;
+    border: none;
+    text-decoration: none;
+    margin-top: 10%;
+    border-style: solid;
+    font-size: large;
+    margin-left: 4%;
+}
+#home-text{
+    font-size: 50px;
+    color: white;
+}
+#home-text{
+    font-size: 80px;
+}
+#text-p{
+    font-size: 25px;
+    color: white;
+}
+
+
