@@ -1,0 +1,205 @@
+body{
+    margin: 0%;
+}
+.landing-page{
+    background-color: rgba(33,33,33,255);
+}
+#home{
+    display: flex;
+    padding: 40px 10%;   
+}
+#text-home{
+    width: 60vw;
+}
+#img-home{
+    width: 40vw;
+    height: 60vh;
+}
+
+#img-home > img{
+    width: 40vw;
+    padding-top: 2%;
+}
+#text-name{
+        color: rgba(0,163,172,255);
+}
+.btn-order{
+    border-radius: 40px;
+    padding: 25px 60px;
+    background-color: #ef6e44;
+    color: rgb(253, 252, 252);
+    border: none;
+    text-decoration: none;
+    margin-top: 10%;
+    font-size: large;
+}
+.btn-book{
+    border-radius: 40px;
+    padding: 25px 60px;
+    background-color: rgba(33,33,33,255);
+    color: #cdc465;
+    border: none;
+    text-decoration: none;
+    margin-top: 10%;
+    border-style: solid;
+    font-size: large;
+    margin-left: 4%;
+}
+#home-text{
+    font-size: 50px;
+    color: white;
+}
+#home-text{
+    font-size: 80px;
+}
+#text-p{
+    font-size: 25px;
+    color: white;
+}
+
+nav ul {
+    display: flex;
+    
+}
+
+
+nav{
+    display: flex;
+    
+    width: 80%;
+    margin: auto;
+    margin-top: 0;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 50px;
+    
+
+}
+nav ul li #section {
+    font-weight: bold;
+    color: black;}
+    nav ul li a:hover{
+        text-decoration: none;
+        color: black;
+    }
+
+nav ul #bravaa {
+    color: #ef6e44;
+    font-size: x-large;
+    font-weight: bold ;
+   
+
+    }    
+
+    nav ul .btn-ordernow {
+    
+        border-radius: 40px;
+        padding: 5px 10px;
+        background-color: #ef6e44;
+        color: rgb(253, 252, 252);
+        border: none;
+        text-decoration: none;
+        margin-top: 5%
+        
+        
+    }
+    nav #order li i{
+        
+    
+    }
+
+#para {
+    background-size: 60px;
+    background: url("https://cdn.pixabay.com/photo/2017/08/18/15/06/chicken-2655270__340.jpg") no-repeat;
+    text-align: center;
+    background-position: right center;
+}
+#para p{
+    font-size: 3em;
+    font-weight: bolder;
+    font-family: monospace;
+    min-height: 200px;
+}
+#image1 {
+     display: flex;
+     
+}
+#image1 div{
+    width: 70%;
+}
+#leftimage img {
+    width: 75%;
+    display: block;
+    margin:10px auto;
+}
+#para2 {
+    font-size: 1em;
+    text-align: left;
+    padding:0 10%;
+}
+button {
+    border-radius: 50%;
+    color: white;
+    background-color: orangered;
+    padding: 2mm;
+}
+*{
+    margin: 0;
+    padding: 0;
+    }
+    html{
+      background-color:whitesmoke;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+    #main{
+        margin-left: 42%;
+    }
+    #header{
+        margin-left: 12%;
+        text-align: center;
+        font-size: 1.5em;
+        width: 75%;
+        margin-top: 5%;
+    }
+    .topic{
+        padding-top: 1.5%;
+        font-weight: lighter;
+
+    }
+    h3{
+        padding-top: 1%;
+        font-weight: lighter;
+    }
+    h2{
+        font-weight: lighter;
+        font-size: 122%;
+    }
+    .recipe{
+        display: block;
+        padding: 1.5%;
+    }
+    .hub{
+        display:block;
+        padding: 1.5%;
+    }
+    .kithub{
+        display:block;
+        padding: 1.5%;
+    }
+    .photo1{
+       padding: 2%; 
+    }
+    #photomain{
+        display:flex;
+        margin-left: 20%;
+
+    }
