@@ -110,10 +110,7 @@ nav ul #bravaa {
         
         
     }
-    nav #order li i{
-        
-    
-    }
+   
 
 #para {
     background-size: 60px;
@@ -149,4 +146,32 @@ button {
     color: white;
     background-color: orangered;
     padding: 2mm;
+}
+#cards{
+    display: flex;
+    justify-content: center;
+}
+
+.card-1 img{
+    width: 430px;
+    height: 500px;
+}
+.card-2 img{
+    width: 430px;
+    height: 500px;
+}
+.card-3 img{
+    width: 430px;
+    height: 500px;
+}
+.card-1{
+    margin-right: 80px;
+
+}
+.card-3{
+    margin-left: 80px;
+    
+}
+#section2{
+    margin-top: 5%;
 }
