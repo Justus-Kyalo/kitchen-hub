@@ -57,4 +57,60 @@ body{
     color: white;
 }
 
+nav ul {
+    display: flex;
+    
+}
 
+
+nav{
+    display: flex;
+    
+    width: 80%;
+    margin: auto;
+    margin-top: 0;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 50px;
+    
+
+}
+nav ul li #section {
+    font-weight: bold;
+    color: black;}
+    nav ul li a:hover{
+        text-decoration: none;
+        color: black;
+    }
+
+nav ul #bravaa {
+    color: #ef6e44;
+    font-size: x-large;
+    font-weight: bold ;
+   
+
+    }    
+
+    nav ul .btn-ordernow {
+    
+        border-radius: 40px;
+        padding: 5px 10px;
+        background-color: #ef6e44;
+        color: rgb(253, 252, 252);
+        border: none;
+        text-decoration: none;
+        margin-top: 5%
+        
+        
+    }
+    nav #order li i{
+        
+    
+    }
